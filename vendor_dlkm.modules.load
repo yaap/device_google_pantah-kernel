@@ -5,7 +5,7 @@ extra/private/google-modules/soc/gs/drivers/pinctrl/pinctrl-slg51002.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/smra/smra.ko
 extra/private/google-modules/soc/gs/drivers/regulator/slg51000-regulator.ko
 extra/private/google-modules/soc/gs/drivers/regulator/slg51002-regulator.ko
-extra/private/google-modules/soc/gs/drivers/iommu/iovad-best-fit-algo.ko
+extra/private/google-modules/soc/gs/drivers/iommu/iovad-vendor-hooks.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51000-core.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51002-core.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_etr_miu.ko
@@ -13,7 +13,6 @@ extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
 extra/private/google-modules/soc/gs/drivers/iio/power/odpm-whi.ko
 extra/private/google-modules/soc/gs/drivers/pwm/pwm-exynos.ko
 extra/private/google-modules/soc/gs/drivers/video/backlight/rt4539_bl.ko
-extra/private/google-modules/aoc/aoc_unit_test_dev.ko
 extra/private/google-modules/bms/google_dock.ko
 extra/private/google-modules/bms/google_ccd.ko
 extra/private/google-modules/bms/max77779-charger-i2c.ko
@@ -60,5 +59,4 @@ extra/private/google-modules/uwb/qorvo/dw3000/kernel/net/mcps802154/mcps802154_r
 extra/private/google-modules/uwb/qorvo/dw3000/kernel/net/mcps802154/mcps802154_region_nfcc_coex.ko
 extra/private/google-modules/uwb/qorvo/dw3000/kernel/net/mcps802154/mcps802154_region_pctt.ko
 extra/private/google-modules/uwb/qorvo/dw3000/kernel/drivers/net/ieee802154/dw3000.ko
-extra/private/google-modules/uwb/qorvo/dw3000/kernel/drivers/net/ieee802154/dw3000-core-tests.ko
 extra/private/google-modules/wlan/bcm4389/bcmdhd4389.ko

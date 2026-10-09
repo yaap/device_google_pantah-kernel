@@ -18,7 +18,6 @@ extra/private/google-modules/soc/gs/drivers/dma/samsung-dma.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/dss.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/debug-snapshot-debug-kinfo.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/ehld.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-debug-test.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-debug-test.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/itmon.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-coresight.ko
@@ -30,14 +29,9 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-boot-metrics.
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-suspend-diag.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/sjtag-driver.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/etm2dram.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_sched.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/sched_tp.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_preemptirq_long.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/fs/vh_fs.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/mm/vh_mm.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/metrics/pixel_metrics.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gs-chipid.ko
@@ -54,7 +48,6 @@ extra/private/google-modules/soc/gs/drivers/soc/google/ect_parser.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/acpm/gs_acpm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/acpm/acpm_flexpmu_dbg.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/acpm/power_stats.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/acpm/acpm_mbox_test.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-dm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos_pm_qos.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pt/slc_pt.ko
@@ -179,7 +172,6 @@ extra/private/google-modules/power/mitigation/google_bcl.ko
 extra/private/google-modules/power/reset/pixel-reboot.ko
 extra/private/google-modules/trusty/drivers/trusty/trusty-core.ko
 extra/private/google-modules/trusty/drivers/trusty/trusty-log.ko
-extra/private/google-modules/trusty/drivers/trusty/trusty-test.ko
 extra/private/google-modules/trusty/drivers/trusty/trusty-virtio.ko
 extra/private/google-modules/trusty/drivers/trusty/trusty-ipc.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41.ko
