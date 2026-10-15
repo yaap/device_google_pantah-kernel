@@ -122,6 +122,7 @@ aoc_uwb_service_dev.ko
 aoc_tbn_service_dev.ko
 aoc_alsa_dev.ko
 aoc_alsa_dev_util.ko
+aoc_usb_driver.ko
 google-bms.ko
 google-battery.ko
 google-charger.ko
